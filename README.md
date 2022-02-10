@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Noah Vilas
+- 👀 I’m interested in hacking and ai
+- 🌱 I’m currently learning data structure at school, but hacking and ai in private
+- 💞️ I’m looking to collaborate on games and projects for hacking and artificial intellegence, but ill take a look at anything and see if its interesting.
+- 📫 How to reach me message me on discord noahvirus#5431
